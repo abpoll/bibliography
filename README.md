@@ -4,10 +4,6 @@ This repository contains `.bib` files containing my papers.
 * `my-papers.bib`: papers by me;
 * `conferencs.bib`: conference talks and posters by me;
 
-## Use
-
-I use this in my [group's website](https://github.com/srikrishnan-lab/srikrishnan-lab.github.io) as well as my [CV](https://github.com/vsrikrish/cv) as a [`git` submodule](https://www.vogella.com/tutorials/GitSubmodules/article.html). Pushing an update triggers rebuilding the website and CV.
-
 ### Add to Project
 
 To add to a project, use:
