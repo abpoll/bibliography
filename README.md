@@ -2,6 +2,7 @@
 
 This repository contains `.bib` files containing my papers. 
 * `my-papers.bib`: papers by me;
+* `conferencs.bib`: conference talks and posters by me;
 
 ## Use
 
